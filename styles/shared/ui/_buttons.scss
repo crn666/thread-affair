@@ -14,8 +14,7 @@
     color: $brand-primary;
     background-color: transparent;
   }
-}
-
-.button-large {
-  padding: 16px 36px;
+  &-large {
+    padding: 16px 36px;
+  }
 }
